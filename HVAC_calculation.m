@@ -11,7 +11,9 @@
 
 function [E_con] = HVAC_calculation(scenario, body_type,T_amb, alpha, beta, gamma, A_f, A_s, A_r, A_cab, m_flow, perc_ca)
 %% Description:
-%This function creates a Metamodel out of the simuulation data in KULI
+%This function calculates the electric energy demand of the HVAC system of
+%battery electric vehicles depending on the vehicle characteristics and
+%ambient conditions.
 
 % Author:   Adrian König, Ph.D. Candidate, TU Munich, Institute for Automotive Technologie
 % Date:     02.11.21
