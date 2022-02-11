@@ -1,5 +1,6 @@
 Paper Title: The Impact of HVAC on the Development of Autonomous and Electric Vehicle Concepts ------
 Authors: Adrian König, Sebastian Mayer, Lorenzo Nicoletti, Stephan Tumphart and Markus Lienkamp 
+Link: https://www.mdpi.com/1996-1073/15/2/441
 
 ------- HVAC-Consumption-Calculator ---------
 
